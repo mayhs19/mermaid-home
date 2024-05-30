@@ -1,6 +1,6 @@
 ```mermaid
 ---
-Title MeMyselfCo Home
+title : MeMyselfCo Home
 ---
 classDiagram
 class Myself
